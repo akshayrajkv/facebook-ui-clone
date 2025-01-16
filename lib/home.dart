@@ -19,7 +19,7 @@ class HomePage extends StatelessWidget {
       thickness: 1,
     );
     Widget thickdivider = Divider(
-      thickness: 10,
+      thickness: 11,
       color: Colors.grey.shade300,
     );
 
@@ -28,7 +28,7 @@ class HomePage extends StatelessWidget {
           title: const Text(
             'Facebook',
             style: TextStyle(
-                color: Colors.blue, fontWeight: FontWeight.bold, fontSize: 26),
+                color: Colors.blue, fontWeight: FontWeight.bold, fontSize: 27),
           ),
           actions: [
             CircleButton(
