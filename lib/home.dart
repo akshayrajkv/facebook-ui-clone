@@ -19,7 +19,7 @@ class HomePage extends StatelessWidget {
       thickness: 1,
     );
     Widget thickdivider = Divider(
-      thickness: 11,
+      thickness: 10,
       color: Colors.grey.shade300,
     );
 
