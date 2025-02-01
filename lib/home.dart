@@ -111,7 +111,7 @@ class HomePage extends StatelessWidget {
               postimage: 'assets/diwali.jpg',
               posttitile: 'Happy Diwali',
               showbluetick: true,
-              publishedat: '5 h',
+              publishedat: '5  h',
               likecount: '10k',
               commentcount: '1k',
               sharecount: '500',
