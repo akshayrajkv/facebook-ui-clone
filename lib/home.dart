@@ -28,7 +28,7 @@ class HomePage extends StatelessWidget {
           title: const Text(
             'Facebook',
             style: TextStyle(
-                color: Colors.blue, fontWeight: FontWeight.bold, fontSize: 23),
+                color: Colors.blue, fontWeight: FontWeight.bold, fontSize: 22),
           ),
           actions: [
             CircleButton(
